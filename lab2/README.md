@@ -2,4 +2,4 @@
 
 I completed this lab by myself.
 
-Generative AI agents (Gemini) were used as tool for explaining course concepts and how to use different python packages.
+Generative AI agents (Gemini) were used as a tool for explaining course concepts and as well as learning more about pandas data frame.
